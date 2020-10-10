@@ -1,3 +1,3 @@
 # Label-Super-Resolution-Network
-contains code for the paper
+This lab contains the code for the paper
   >>>>Malkin, Kolya, et al. "Label super-resolution networks." (2018).
